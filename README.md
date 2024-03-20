@@ -22,7 +22,7 @@ These instructions will get you a copy of the project up and running on your loc
    Begin by cloning the repository to your local machine:
 
    ```
-   git clone https://github.com/agentkyo/shipay-csr-generator.git
+   git clone https://github.com/agentkyo/generate_new_csr.git
    cd shipay-csr-generator
    ```
 
