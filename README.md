@@ -99,11 +99,4 @@ Please read [CONTRIBUTING.md](https://github.com/agentkyo/shipay-csr-generator/C
 
 See also the list of [contributors](https://github.com/agentkyo/shipay-csr-generator/contributors) who participated in this project.
 
-
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
-
 ---
