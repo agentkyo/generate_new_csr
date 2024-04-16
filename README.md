@@ -89,14 +89,4 @@ These instructions will get you a copy of the project up and running on your loc
 - Verify that your Python environment is correctly set up and activated.
 - Check for any error messages in the console and address them as needed.
 
-## Contributing
-
-Please read [CONTRIBUTING.md](https://github.com/agentkyo/shipay-csr-generator/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Authors
-
-- **Caio Vinicius** - *Initial work* - [YourUsername](https://github.com/agentkyo)
-
-See also the list of [contributors](https://github.com/agentkyo/shipay-csr-generator/contributors) who participated in this project.
-
 ---
